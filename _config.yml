@@ -1,12 +1,11 @@
-# Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: wuhuaiqian Blog
+SEOTitle: 吴怀千的博客 | huaiqian Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: ""
-keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+email: ngitfk@qq.com
+description: "程序员"
+keyword: "吴怀千, 博客, 个人网站, 互联网,Java Web, JavaScript,数据库"
+url: "https://kgdngitfk.github.io/"              # your host, for absolute URL
+baseurl: "/"
 
 
 
