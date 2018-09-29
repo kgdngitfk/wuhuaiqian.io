@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "h2的使用"
+subtitle:   "h2database"
+date:       2018-09-29
+author:     "wuhuaiqian"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - database
+    - JavaScript
+    - 翻译
+---
+h2database是一个纯java实现的数据库,它支持Embedded (local) connection(在程序中使用,数据持久化到文件中,你的应用程序可以自身拥有一个数据库DBMS)/In-memory(数据只保存在内存中,应用停止后数据丢失)
+Server mode (remote connections) using TCP/IP(网络模式通过TCP/IP协议支持网络连接),支持SSL加密,同时数据持久化的文件也支持加密等高级特性,功能强大
+
+![java-javascript](/img/in-post/post-js-version/javascript-java.jpg)
+<small class="img-hint">歪果仁的笑话怎么一点都不好笑</small>
+
+> 译者注：[wikipedia 的 JavaScript 词条](https://en.wikipedia.org/wiki/JavaScript#History) 更详细的叙述了这段历史
+
+#### 一些资源
+
+#### 著作权声明
+
+本文译自 [ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?](http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/)   
+译者 [黄玄](http://weibo.com/huxpro)，首次发布于 [Hux Blog](http://huangxuan.me)，转载请保留以上链接
