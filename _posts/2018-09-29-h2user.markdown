@@ -60,5 +60,5 @@ h2database是一个纯java实现的数据库,它支持
               p:password="root" p:maxActive="100" p:initialSize="1" p:testOnBorrow="true"
               p:validationQuery="SELECT 1" p:filters="stat,config"
               p:proxyFilters-ref="log-filter"/>
- ```
- 剩下的配置就是ORM框架的内容了,不在本文讨论的范围之内
+```
+剩下的配置就是ORM框架的内容了,不在本文讨论的范围之内
